@@ -1,0 +1,17 @@
+
+I
+java:S1481",Remove this unused "cliente" local variable.(Ö’«®8ØÏ™í˜0
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö£þÄÿÿÿÿÿ8°Û‰í˜0
+ž
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·ÖäÚ8°Û‰í˜0
+X	java:S125"<This block of commented-out lines of code should be removed.(Ä„þî8ØÏ™í˜0
+X
+java:S1854";Remove this useless assignment to local variable "cliente".(Ö’«®8ØÏ™í˜0
+£
+java:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áÃ–³ÿÿÿÿÿ8¨í˜0
+[
+java:S1128"?Remove this unused import 'br.com.bytebank.banco.modelo.Conta'.(Ç™Ó8®Ø”í˜0
+ž
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Äºý8«Ù‡í˜0
+X	java:S125"<This block of commented-out lines of code should be removed.(ðáæ€8©ç¸í˜0

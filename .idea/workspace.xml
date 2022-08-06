@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="bytebank-herdado:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c715eb42-7558-45cb-94ad-f3ad6cf0cb6b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24npUS5dIiBRkcQC1haBnDxSYAw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/br/com/bytebank/banco/util" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.17465389" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/br/com/bytebank/banco/util" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.bytebank.banco.util" />
+      <recent name="br.com.bytebank.banco.test" />
+      <recent name="heranca" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/doc" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="Str" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TesteOrdenacao">
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.util.Teste" />
+      <module name="bytebank-herdado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.util.TesteArrayList" />
+      <module name="bytebank-herdado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.util.TesteLinkedList" />
+      <module name="bytebank-herdado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteOrdenacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.util.TesteOrdenacao" />
+      <module name="bytebank-herdado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteOutrosWrappers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.util.TesteOutrosWrappers" />
+      <module name="bytebank-herdado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TesteArrayList" />
+      <item itemvalue="Application.TesteLinkedList" />
+      <item itemvalue="Application.TesteOutrosWrappers" />
+      <item itemvalue="Application.Teste" />
+      <item itemvalue="Application.TesteOrdenacao" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteOrdenacao" />
+        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.TesteOutrosWrappers" />
+        <item itemvalue="Application.TesteArrayList" />
+        <item itemvalue="Application.TesteLinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c715eb42-7558-45cb-94ad-f3ad6cf0cb6b" name="Default Changelist" comment="" />
+      <created>1644276220322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644276220322</updated>
+      <workItem from="1644276223442" duration="1879000" />
+      <workItem from="1644319453279" duration="9000" />
+      <workItem from="1644434961274" duration="1313000" />
+      <workItem from="1644493885327" duration="629000" />
+      <workItem from="1644847287459" duration="2449000" />
+      <workItem from="1654515544656" duration="2204000" />
+      <workItem from="1654521449850" duration="3198000" />
+      <workItem from="1654527323341" duration="822000" />
+      <workItem from="1654539377713" duration="1716000" />
+      <workItem from="1654600711554" duration="810000" />
+      <workItem from="1654697372524" duration="290000" />
+      <workItem from="1655313357648" duration="1215000" />
+      <workItem from="1655655889860" duration="2832000" />
+      <workItem from="1655724506111" duration="14000" />
+      <workItem from="1655835034588" duration="3052000" />
+      <workItem from="1655846899815" duration="44000" />
+      <workItem from="1655846961329" duration="176000" />
+      <workItem from="1655847556365" duration="1246000" />
+      <workItem from="1655921038955" duration="1000" />
+      <workItem from="1655922043353" duration="192000" />
+      <workItem from="1655937016203" duration="10670000" />
+      <workItem from="1655983464552" duration="20000" />
+      <workItem from="1656112698821" duration="6288000" />
+      <workItem from="1656253122316" duration="1402000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="184" width="802" height="681" key="#JBoss_Server" timestamp="1656254486542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="550" y="184" width="802" height="681" key="#JBoss_Server/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656254486542" />
+    <state x="555" y="182" width="802" height="681" key="#Project_Structure" timestamp="1655847601921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="182" width="802" height="681" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1655847601921" />
+    <state x="546" y="186" width="802" height="681" key="#Schemas_and_DTDs" timestamp="1656254470566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="546" y="186" width="802" height="681" key="#Schemas_and_DTDs/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656254470566" />
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655943546442">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1655943546442" />
+    <state x="706" y="329" width="492" height="392" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1656118990415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="706" y="329" width="492" height="392" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656118990415" />
+    <state x="705" y="360" width="502" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1655846476533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="705" y="360" width="502" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1655846476533" />
+    <state x="768" y="233" width="480" height="579" key="#com.intellij.ide.util.MemberChooser" timestamp="1656115998322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="768" y="233" width="480" height="579" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656115998322" />
+    <state x="688" y="311" width="527" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1655847066552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="311" width="527" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1655847066552" />
+    <state x="707" y="271" width="505" height="503" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1655837076835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="271" width="505" height="503" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1655837076835" />
+    <state x="742" y="280" width="426" height="488" key="FileChooserDialogImpl" timestamp="1656254510856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="280" width="426" height="488" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656254510856" />
+    <state width="1878" height="273" key="GridCell.Tab.0.bottom" timestamp="1656119976365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656119976365" />
+    <state width="1878" height="273" key="GridCell.Tab.0.center" timestamp="1656119976365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="273" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656119976365" />
+    <state width="1878" height="273" key="GridCell.Tab.0.left" timestamp="1656119976365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="273" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656119976365" />
+    <state width="1878" height="273" key="GridCell.Tab.0.right" timestamp="1656119976365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="273" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656119976365" />
+    <state x="443" y="98" width="1108" height="849" key="SettingsEditor" timestamp="1655847823864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="443" y="98" width="1108" height="849" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1655847823864" />
+    <state x="779" y="394" width="428" height="260" key="classpath-attribute-editor" timestamp="1655847734091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="394" width="428" height="260" key="classpath-attribute-editor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1655847734091" />
+    <state x="643" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1656253121672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656253121672" />
+    <state x="376" y="144" width="1159" height="757" key="new project wizard" timestamp="1656254524548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="376" y="144" width="1159" height="757" key="new project wizard/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656254524548" />
+    <state x="623" y="236" width="672" height="677" key="run.anything.popup" timestamp="1655946723300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="236" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1655946723300" />
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1656115268758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656115268758" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/br/com/bytebank/banco/test/TesteArrayDePrimitivos.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
